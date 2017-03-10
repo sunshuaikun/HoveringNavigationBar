@@ -1,0 +1,2 @@
+# HoveringNavigationBar
+tableview的header背景图在下拉时拉伸，上推时导航条悬浮在顶部，类似QQ空间效果。用autolayout实现。
